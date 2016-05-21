@@ -4,6 +4,10 @@
 # PushNotification.API.PHP
 Código fonte PHP que possui todos os métodos para envio de mensagem Servidor -> Android.
 
+Resultado final:
+![alt text][logo]
+[logo]: https://meucomercioeletronico.com/tutorial/push_notfication_animeted.gif "AnimatedResult"
+
 ## functions.php
 Esta classe possui os métodos de manipulação do banco de dados e do Google Cloud Messaging
 
