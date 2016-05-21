@@ -5,6 +5,7 @@
 Código fonte PHP que possui todos os métodos para envio de mensagem Servidor -> Android.
 
 Resultado final:
+
 ![alt text][logo]
 [logo]: https://meucomercioeletronico.com/tutorial/push_notfication_animeted.gif "AnimatedResult"
 
