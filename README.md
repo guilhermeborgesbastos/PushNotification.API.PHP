@@ -6,7 +6,7 @@ Código fonte PHP que possui todos os métodos para envio de mensagem Servidor -
 
 | Resultado final | Baixe o Código APP Android |
 | --- | --- |
-| ![TinderSwipeBastos_animated](https://meucomercioeletronico.com/tutorial/push_notfication_animeted.gif)  | [![VIDEO](https://meucomercioeletronico.com/tutorial/push_notfication_animeted.gif)](https://github.com/guilhermeborgesbastos/PushNotification) |
+| ![TinderSwipeBastos_animated](https://meucomercioeletronico.com/tutorial/push_notfication_animeted.gif)  | [![VIDEO](https://meucomercioeletronico.com/tutorial/pushNotification016.jpg)](https://github.com/guilhermeborgesbastos/PushNotification) |
 
 
 ## functions.php
