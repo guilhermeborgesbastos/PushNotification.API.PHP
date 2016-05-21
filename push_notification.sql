@@ -1,5 +1,5 @@
 # Host: localhost  (Version: 5.6.17)
-# Date: 2016-05-21 17:04:34
+# Date: 2016-05-21 18:28:29
 # Generator: MySQL-Front 5.3  (Build 4.234)
 
 /*!40101 SET NAMES latin1 */;
@@ -21,3 +21,9 @@ CREATE TABLE `usuarios` (
   `criado_em` bigint(20) DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COLLATE=utf8_general_mysql500_ci;
+
+#
+# Data for table "usuarios"
+#
+
+INSERT INTO `usuarios` VALUES (1,'Guilherme Borges Bastos','guilhermeborgesbastos@gmail.com','teste',1,'APA91bGnCFM5c2vhWxKG4aEgjqe3x7dpVtCf-DHta2JxDbVkB7hra-5K6cM2phNZLIJtjH0hpdFMH2J0Lm8DhX-lrIwivAdmHpkCYTfGCGXP7qCR_Vawy8_VX47ZpVFMUTrMpyJaCYQI',0,0,0);
